@@ -1,3 +1,4 @@
+package MainProgram;
 import java.util.Scanner;
 public class ProjectCalculater {
     public static void main(String[] args) {

@@ -31,6 +31,7 @@ public class ProjectCalculater {
         }
 
         System.out.printf("HELLO TIME");
+        System.out.printf("HELLO TIME2");
         input.close();
     }
 }
